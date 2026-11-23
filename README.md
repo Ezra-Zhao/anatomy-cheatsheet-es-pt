@@ -1,5 +1,7 @@
 # Anatomy 速查表 | Anatomy Cheatsheet | Guía rápida de Anatomy
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Anatomy：一个 Claude skill（智能体技能），让 AI 把抽象概念「造成一台能运转的实体机器」来讲给你听——缓存命中变成只有钥匙对了才转的弹子锁，限流变成往外漏水的令牌桶。产出是等距视角的交互图（SVG / WebGL / 3D），零件能动、数字实时读出，截图发到哪都吸睛。
 
 - 上游项目：[wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)（2026-10-19 实测 16,662 ★，MIT 协议）
